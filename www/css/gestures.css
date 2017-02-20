@@ -1,0 +1,21 @@
+body{
+	background-color: #F8F9F9; /* los numeros se encuentran en http://htmlcolorcodes.com */
+}
+
+body.claro{
+	background-color: cyan;
+}
+body.oscuro{
+	background-color: navy;
+}
+
+button{
+	background-color: #7fba76;
+	color: #ffffff;
+	border: none;
+	width: 100%;
+	padding: 30px;
+	font-size: 1em;
+	margin-top: 10px;
+}
+
